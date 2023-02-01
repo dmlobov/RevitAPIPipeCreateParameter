@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\RevitAPITrainig\RevitAPIPipeCreateParameter.dll"</Assembly>
+		<AddInId>91C9E2B9-CBA0-4B5B-AD5A-9C1FF1FC6824</AddInId>
+		<FullClassName>RevitAPIPipeCreateParameter.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>PipeCreateParameter</Text>
+	</AddIn>
+</RevitAddIns>
